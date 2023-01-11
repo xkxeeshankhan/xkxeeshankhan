@@ -15,3 +15,11 @@ All projects are developed with **Flutter** 💙💙
 
 ### Approved [Turing](https://matching.turing.com/developer-resume/c71619c30a53dfe93b642719b057f1ce9bf7f8b16ad825) profile 🎇🎇
 
+**Always Learn and Grow** 📚
+
+Currently learning NodeJS | Typescript ⛳️
+
+### 📖 Contact Me
+
+Mail: xk.xeeshankhan@gmail.com
+
