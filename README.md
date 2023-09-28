@@ -17,7 +17,7 @@ All projects are developed with **Flutter** 💙💙
 
 **Always Learn and Grow** 📚
 
-Currently learning NodeJS | Typescript ⛳️
+Currently learning AWS ⛳️
 
 ### 📖 Contact Me
 
