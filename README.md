@@ -20,7 +20,7 @@ All projects are developed with **Flutter** 💙💙
 
 **Always Learn and Grow** 📚
 
-Currently learning AWS ⛳️
+Currently learning NextJS ⛳️
 
 ### 📖 Contact Me
 
