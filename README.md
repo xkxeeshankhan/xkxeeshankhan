@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Zeeshan Zafar, aka Xeeshan Khan
 
+**Software Engineer**
+
 [LinkedIn](https://www.linkedin.com/in/xkxeeshankhan/) | [Portfolio Flutter web 2019](https://xeeshan-khan.web.app/) 
 
 ### 🚀 Projects
@@ -21,6 +23,9 @@ All projects are developed with **Flutter** 💙💙
 **Always Learn and Grow** 📚
 
 Currently learning NextJS ⛳️
+
+**Campus Silver Medalist**     
+**University Bronze Medalist**
 
 ### 📖 Contact Me
 
