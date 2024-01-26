@@ -22,7 +22,7 @@ All projects are developed with **Flutter** 💙💙
 
 **Always Learn and Grow** 📚
 
-Currently learning NextJS ⛳️
+Currently learning NestJS ⛳️
 
 **Campus Silver Medalist**     
 **University Bronze Medalist**
