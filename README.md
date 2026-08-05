@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Zeeshan Zafar, aka Xeeshan Khan
 
-**Software Engineer** **Product Engineer**
+**Product Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/xkxeeshankhan/) | [Portfolio Flutter web 2019](https://xeeshan-khan.web.app/) 
 
